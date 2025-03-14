@@ -40,3 +40,28 @@ The Order Management System provides a facility that enables users to view detai
 
 ## User
 ![image](https://github.com/user-attachments/assets/34653b88-5691-4a01-8810-ddddc589d47c)
+
+## DBConnection
+![image](https://github.com/user-attachments/assets/c613ae30-4c3e-46c3-810a-de0fd2bf90ce)
+
+## PasswordHasher
+![image](https://github.com/user-attachments/assets/ab624244-c1a0-44c2-9a94-15f5aba76669)
+
+## CartServlet
+![image](https://github.com/user-attachments/assets/e7c2020f-c800-43f6-9165-09a09b2f0185)
+
+## CheckoutServlet
+![image](https://github.com/user-attachments/assets/4c8d602a-2c10-4da8-80e3-8e2a1be55835)
+
+## LoginServlet
+![image](https://github.com/user-attachments/assets/30e25b17-e93c-4bb7-9e76-149fcc880d84)
+
+## OrderServlet
+![image](https://github.com/user-attachments/assets/e883ea5d-382c-4fc3-bc43-bc38b1ab7c17)
+![image](https://github.com/user-attachments/assets/1601781d-73aa-4413-95e4-385b1f947384)
+
+## ProductServlet
+![image](https://github.com/user-attachments/assets/6e9954f2-ac8f-464f-8476-4ad40ead6b22)
+
+## RegisterServlet
+![image](https://github.com/user-attachments/assets/32a49808-53e2-4494-b5e5-ffe201c9aa51)
