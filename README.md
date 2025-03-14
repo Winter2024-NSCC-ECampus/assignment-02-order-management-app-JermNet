@@ -65,3 +65,30 @@ The Order Management System provides a facility that enables users to view detai
 
 ## RegisterServlet
 ![image](https://github.com/user-attachments/assets/32a49808-53e2-4494-b5e5-ffe201c9aa51)
+
+## cart.jsp
+![image](https://github.com/user-attachments/assets/50235ca6-0a39-4445-9925-03490e08bd7d)
+
+# checkout.jsp
+![image](https://github.com/user-attachments/assets/ae7f755a-ceac-4dbb-8f7b-6f3fd58859f4)
+![image](https://github.com/user-attachments/assets/0ad1d3de-62f6-41d4-b117-9487616418e7)
+
+# index.jsp
+![image](https://github.com/user-attachments/assets/50d61130-f63c-42da-b1bb-31d74d5e83cb)
+![image](https://github.com/user-attachments/assets/df1f795b-354d-4f92-8522-67fd38f0f9c6)
+![image](https://github.com/user-attachments/assets/77b9033f-a669-4a07-b90b-080ee63850ef)
+
+# login.jsp
+![image](https://github.com/user-attachments/assets/235f18ef-916b-4082-831b-3100cbcf6f49)
+
+# logout.jsp
+![image](https://github.com/user-attachments/assets/17923492-bc56-47b2-9493-94d6e339a37a)
+
+# orders.jsp
+![image](https://github.com/user-attachments/assets/c02178d7-800e-4448-80ed-ae6a69063bb4)
+
+# productdetails.jsp
+![image](https://github.com/user-attachments/assets/fe4a1ed0-3b5b-4bd3-80ad-e307388b0a28)
+
+# register.jsp
+![image](https://github.com/user-attachments/assets/2051a908-7e11-4cfe-9f96-0a313af1c841)
