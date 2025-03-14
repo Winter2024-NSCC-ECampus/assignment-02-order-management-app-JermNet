@@ -92,3 +92,24 @@ The Order Management System provides a facility that enables users to view detai
 
 ## register.jsp
 ![image](https://github.com/user-attachments/assets/2051a908-7e11-4cfe-9f96-0a313af1c841)
+
+## Cart Page
+![image](https://github.com/user-attachments/assets/dd59d017-7ba1-4764-a0ea-f579ce2ce37c)
+
+## Checkout Page
+![image](https://github.com/user-attachments/assets/3990e342-90d4-4852-be77-b8a7892b81ac)
+
+## Index Page
+![image](https://github.com/user-attachments/assets/3c507626-9c67-4af3-b29c-4b34377eebaf)
+
+## Login Page
+![image](https://github.com/user-attachments/assets/9ac1151a-aa7e-4d44-b0b0-87548263f588)
+
+## Logout Page
+![image](https://github.com/user-attachments/assets/dc1e5784-256f-435c-ae26-d2df162d9788)
+
+## Orders Page
+![image](https://github.com/user-attachments/assets/dbb608e0-ee07-4c04-b1f7-54859f4f8d66)
+
+## Product Details Page
+![image](https://github.com/user-attachments/assets/9a505d7d-96ae-4900-aa2c-2744ed8a55f9)
