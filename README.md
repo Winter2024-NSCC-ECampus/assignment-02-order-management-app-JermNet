@@ -27,3 +27,16 @@ The Order Management System provides a facility that enables users to view detai
 
 ## UserDAO
 ![image](https://github.com/user-attachments/assets/d1ff7ff6-80dd-4562-879c-acd9772955dd)
+
+## Order
+![image](https://github.com/user-attachments/assets/fb7bded3-8477-448b-afa3-f67140c20561)
+![image](https://github.com/user-attachments/assets/632f5042-6375-4bdf-b16c-182d2f50f760)
+
+## OrderItem
+![image](https://github.com/user-attachments/assets/27636801-5388-4a2b-bba4-ef628b5bd67f)
+
+## Product
+![image](https://github.com/user-attachments/assets/4043a1e6-5fa9-486e-8aff-15cb1f7efc71)
+
+## User
+![image](https://github.com/user-attachments/assets/34653b88-5691-4a01-8810-ddddc589d47c)
